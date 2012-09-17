@@ -5,8 +5,8 @@ description: jsFiddle demo hosted on stegrams Github using HTML Request to get A
 authors:
   - Piotr Zalewa
 resources:
-  - /js/empty.js
-  - /css/normalize.css
+  - http://documentcloud.github.com/underscore/underscore.js
+  - http://documentcloud.github.com/backbone/backbone.js
 ...
 */
 
